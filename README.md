@@ -1,7 +1,7 @@
 # LARF-CHI-EA-25
 # Let AI Read First - Enhancing Reading Abilities for Individuals with Dyslexia through Artificial Intelligence(CHI 2025 Late Breaking Work)
 
-[Sihang (Nagi) Zhao](https://akutagawa1998.github.io/), [Shoucong Xiong],[Bo Pang] [Xiaoying Tang], [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying), [Pinjia He](https://pinjiahe.github.io/)
+[Sihang (Nagi) Zhao](https://akutagawa1998.github.io/), [Shoucong Xiong],[Bo Pang](https://github.com/Bloomberg2000), [Xiaoying Tang], [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying), [Pinjia He](https://pinjiahe.github.io/)
                
 ### [Paper]() | [Project Page](https://github.com/LARF2025/LARF-CHI-EA-25/)
 
