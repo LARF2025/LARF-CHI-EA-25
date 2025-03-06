@@ -15,11 +15,11 @@
 
 ## Tips for OSX Install:
 You may need to use the following instruction for installing the demo:
-"""
+```
 sudo spctl --master-disable
 sudo codesign --force --deep --sign - /Applications/LARF.app
 xattr -r -d com.apple.quarantine /Applications/LARF.app
-"""
+```
 After run the above instructions in the terminal, you should be able to start with LARF :)
 
 
