@@ -3,7 +3,7 @@
 
 [Sihang (Nagi) Zhao](https://akutagawa1998.github.io/), [Shoucong Xiong],[Bo Pang](https://github.com/Bloomberg2000), [Xiaoying Tang], [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying), [Pinjia He](https://pinjiahe.github.io/)
                
-### [Paper]() | [Project Page](https://github.com/LARF2025/LARF-CHI-EA-25/)
+### [Paper](https://github.com/LARF2025/LARF-CHI-EA-25/blob/main/chiea25-622.pdf) | [Project Page](https://github.com/LARF2025/LARF-CHI-EA-25/)
 
 
 ![Teaser](figure_1.png)
